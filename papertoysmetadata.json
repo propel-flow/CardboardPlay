@@ -1,0 +1,681 @@
+{
+  "architecture": [
+    {
+      "Name": "1920's Home Interiors",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/pixie.htm"
+    },
+    {
+      "Name": "Angkor Wat",
+      "Difficulty": "Hard",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/angkorwat.htm"
+    },
+    {
+      "Name": "Arc de Triomphe",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/arch-of-triumph.htm"
+    },
+    {
+      "Name": "Big Ben",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/bigben.htm"
+    },
+    {
+      "Name": "Bill Gate's House",
+      "Difficulty": "Hard",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/gates.htm"
+    },
+    {
+      "Name": "Brooklyn Bridge",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/brooklyn-bridge.htm"
+    },
+    {
+      "Name": "Chrysler Building",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/chrysler-building.htm"
+    },
+    {
+      "Name": "Dubai Clock Tower",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/dubai.htm"
+    },
+    {
+      "Name": "Eiffel Tower",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/eiffel.htm"
+    },
+    {
+      "Name": "Empire State Building",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/empire-building.htm"
+    },
+    {
+      "Name": "Frank Lloyd Wright House",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/fallingdowner.htm"
+    },
+    {
+      "Name": "Great Pyramid",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/pyramid.htm"
+    },
+    {
+      "Name": "Great Wall of China",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/great-wall.htm"
+    },
+    {
+      "Name": "Haunted House",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/haunted-house.htm"
+    },
+    {
+      "Name": "Jackup Oil Rig",
+      "Difficulty": "Hard",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/rig.htm"
+    },
+    {
+      "Name": "Minnesota Home Model",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/greater-minnesota-housing-fund.htm"
+    },
+    {
+      "Name": "Mount Rushmore",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/rushmore.htm"
+    },
+    {
+      "Name": "Neuschwanstein Castle",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/neuschwanstein-castle.htm"
+    },
+    {
+      "Name": "Schenley Park Visitor's Center",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/schenley-park-visitor-center.htm"
+    },
+    {
+      "Name": "Santa's House",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/santas-house.htm"
+    },
+    {
+      "Name": "Shakespeare's Globe Theatre",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/globe.htm"
+    },
+    {
+      "Name": "Sphynx",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/sphynx.htm"
+    },
+    {
+      "Name": "Statue of Liberty",
+      "Difficulty": "Medium",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/statue.htm"
+    },
+    {
+      "Name": "Sydney Opera House",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/sydney-opera-house.htm"
+    },
+    {
+      "Name": "Taj Mahal",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/tajmahal.htm"
+    },
+    {
+      "Name": "U.S Capitol Building",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/capitol.htm"
+    },
+    {
+      "Name": "White House",
+      "Difficulty": "Medium",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/white-house.htm"
+    },
+    {
+      "Name": "World Trade Center Complex",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/world-trade-center.htm"
+    },
+    {
+      "Name": "Wrigley Field",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/wrigley-field.htm"
+    }
+  ],
+  "vehicles": [
+    {
+      "Name": "1955 Chevrolet Nomad",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/nomad.htm"
+    },
+    {
+      "Name": "Alfa Romeo",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/alfaromeo.htm"
+    },
+    {
+      "Name": "American School Bus",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/amschoolbus.htm"
+    },
+    {
+      "Name": "Apache Helicopter",
+      "Difficulty": "Hard",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/apache.htm"
+    },
+    {
+      "Name": "Double-Decker Bus",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/britishbus.htm"
+    },
+    {
+      "Name": "Canadian National Railway Train",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/cn-train.htm"
+    },
+    {
+      "Name": "Cartoon Car",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/cartoon-car.htm"
+    },
+    {
+      "Name": "Chitty Chitty Bang Bang",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/chitty.htm"
+    },
+    {
+      "Name": "Shuttle Bus",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/bus.htm"
+    },
+    {
+      "Name": "Chrysler PT Cruiser",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/pt-cruiser.htm"
+    },
+    {
+      "Name": "Dale Earnhardt NASCAR #3",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/nascar.htm"
+    },
+    {
+      "Name": "DeLorean",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/delorean.htm"
+    },
+    {
+      "Name": "Electric Vehicle",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/mr2.htm"
+    },
+    {
+      "Name": "Ferrari Testerossa",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/ferrari-testarosa.htm"
+    },
+    {
+      "Name": "Formula One Race Car",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/formula1.htm"
+    },
+    {
+      "Name": "Harley Davidson Motorcycle",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/harley.htm"
+    },
+    {
+      "Name": "Hummer",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/hummer3.htm"
+    },
+    {
+      "Name": "IMCA Race Car",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/imca.htm"
+    },
+    {
+      "Name": "Land Rover Freelander",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/freelander.htm"
+    },
+    {
+      "Name": "Lincoln Continental",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/lincoln.htm"
+    },
+    {
+      "Name": "London Taxi",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/londontaxi.htm"
+    },
+    {
+      "Name": "Mercedes CLK",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/merccl.htm"
+    },
+    {
+      "Name": "Mercedes 320 SL",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/merc320.htm"
+    },
+    {
+      "Name": "Messerschmitt",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/messerschmitt.htm"
+    },
+    {
+      "Name": "Mississippi Queen Riverboat",
+      "Difficulty": "Hard",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/mississippi-queen.htm"
+    },
+    {
+      "Name": "Nash Metropolitan",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/metropolitan.htm"
+    },
+    {
+      "Name": "Navy Afloat Lab",
+      "Difficulty": "Hard",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/afloatlab.htm"
+    },
+    {
+      "Name": "New Volkswagen",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/new-volkswagon.htm"
+    },
+    {
+      "Name": "Nissan",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/nissan.htm"
+    },
+    {
+      "Name": "Porsche 911",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/porsche911.htm"
+    },
+    {
+      "Name": "Queen's Crown",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/queenscrown.htm"
+    },
+    {
+      "Name": "Santa Maria",
+      "Difficulty": "Hard",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/santamaria.htm"
+    },
+    {
+      "Name": "Space Shuttle",
+      "Difficulty": "Hard",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/shuttle.htm"
+    },
+    {
+      "Name": "Stealth Aircraft",
+      "Difficulty": "Hard",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/stealth.htm"
+    },
+    {
+      "Name": "Sprinter Van",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/sprinter.htm"
+    },
+    {
+      "Name": "Tank",
+      "Difficulty": "Medium",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/tank.htm"
+    },
+    {
+      "Name": "Tucker Automobile",
+      "Difficulty": "Medium",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/tucker.htm"
+    },
+    {
+      "Name": "Tugboat",
+      "Difficulty": "Medium",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/tugboat.htm"
+    }
+  ],
+  "characters": [
+    {
+      "Name": "Human Body",
+      "Difficulty": "Medium",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/body.htm"
+    },
+    {
+      "Name": "Bruce Lee Paper Doll",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/bruce-lee.htm"
+    },
+    {
+      "Name": "Pilgrim Family",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2D",
+      "Source": "https://www.papertoys.com/pilgrims.htm"
+    },
+    {
+      "Name": "Santa",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/santa.htm"
+    }
+  ],
+  "holiday": [
+    {
+      "Name": "Chanukah Menorah",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/menorah.htm"
+    },
+    {
+      "Name": "Christmas Tree",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/christmas-tree.htm"
+    },
+    {
+      "Name": "Christmas Tree Ornaments",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/ornaments.htm"
+    },
+    {
+      "Name": "Jack-O-Lantern",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/jack-o-lantern.htm"
+    },
+    {
+      "Name": "Nativity Scene",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/nativity-scene.htm"
+    },
+    {
+      "Name": "Thanksgiving Turkey",
+      "Difficulty": "Hard",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/turkey.htm"
+    }
+  ],
+  "toys": [
+    {
+      "Name": "Clown Ring-toss Game",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/ringtoss-clown.htm"
+    },
+    {
+      "Name": "Circus Big Top",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/circus.htm"
+    },
+    {
+      "Name": "Fortune Teller",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2D",
+      "Source": "https://www.papertoys.com/fortuneteller.htm"
+    },
+    {
+      "Name": "Horse Rocker",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/hobbyhorse.htm"
+    },
+    {
+      "Name": "JoyTime Puzzles",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2D",
+      "Source": "https://www.papertoys.com/puzzles.htm"
+    },
+    {
+      "Name": "Paper Doll",
+      "Difficulty": "Medium",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/paper-doll.htm"
+    },
+    {
+      "Name": "Spinning Helicopter",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2D",
+      "Source": "https://www.papertoys.com/spinning-helicopter.htm"
+    },
+    {
+      "Name": "Water Balloon",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2D",
+      "Source": "https://www.papertoys.com/waterballoon.htm"
+    },
+    {
+      "Name": "Hand Shadows",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2D",
+      "Source": "https://www.papertoys.com/handshadow.htm"
+    }
+  ],
+  "animals": [
+    {
+      "Name": "Dog Breed Collection",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2D",
+      "Source": "https://www.papertoys.com/dogs.htm"
+    },
+    {
+      "Name": "Horse",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/horse.htm"
+    },
+    {
+      "Name": "Tyrannosaurus Rex",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/t-rex.htm"
+    },
+    {
+      "Name": "Turkey & Chick",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2D",
+      "Source": "https://www.papertoys.com/turkeychick.htm"
+    }
+  ],
+  "objects": [
+    {
+      "Name": "Jimi Hendrix Guitar",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2D",
+      "Source": "https://www.papertoys.com/guitar.htm"
+    },
+    {
+      "Name": "King's Crown",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/kingscrown.htm"
+    },
+    {
+      "Name": "Party Hat",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/partyhat.htm"
+    },
+    {
+      "Name": "Party Bugle",
+      "Difficulty": "Easy",
+      "Color_Dependency": true,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/bugle.htm"
+    },
+    {
+      "Name": "Tiara",
+      "Difficulty": "Easy",
+      "Color_Dependency": false,
+      "Type": "2.5D",
+      "Source": "https://www.papertoys.com/tiara.htm"
+    }
+  ]
+}
